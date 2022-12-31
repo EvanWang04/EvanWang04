@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evan
+👋 Hi, I’m Evan
 
 <!---
 EvanWang04/EvanWang04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
